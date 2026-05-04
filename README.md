@@ -5,8 +5,7 @@
 * **HTML5** — семантическая вёрстка для корректного отображения структуры страницы.
 * **CSS** — стилизация и визуальное оформление.
 * **Также CSS‑анимации** — интерактивность и динамика элементов.
-* 
-[![asciicast]()]([https://asciinema.org/a/113463](https://github.com/user-attachments/assets/193dc433-342f-45b7-b030-2c33ca463b3b))
+https://github.com/user-attachments/assets/193dc433-342f-45b7-b030-2c33ca463b3b
 <img width="1919" height="1041" alt="Снимок экрана 2026-04-27 20:24:57" src="https://github.com/user-attachments/assets/30945b0f-7a4d-4ee8-a98b-7356d358de46" />
 <img width="1914" height="950" alt="Снимок экрана 2026-04-27 21:29:59" src="https://github.com/user-attachments/assets/56b9e839-dff2-4882-a492-806e31a3778e" />
 <img width="1907" height="965" alt="Снимок экрана 2026-04-29 21:32:50" src="https://github.com/user-attachments/assets/71a72e20-f761-40e8-83b4-c84ed5707b98" />
